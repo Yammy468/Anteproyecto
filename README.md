@@ -9,7 +9,7 @@
 
 <br>
 
-|** **|
+|  |
 |---|
 |**Autor: Yana Zhu**|
 |**Tutor: Ángel Luis Berasuain Ruiz**|
