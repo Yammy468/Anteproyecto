@@ -3,7 +3,7 @@
 ---
 <br>
 
-<img align="center"> ![titulo_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/b9f82723-6c06-4830-8028-37202d498474) </img>
+<p align="center"> ![titulo_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/b9f82723-6c06-4830-8028-37202d498474) </p>
 
 ![portada_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/d9e1eff3-1c46-45ce-ad2d-db7671ddd843)
 
