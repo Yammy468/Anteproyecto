@@ -3,7 +3,7 @@
 ---
 <br>
 
-<p align="center"> ![](https://github.com/Yammy468/Anteproyecto/blob/main/titulo_anteproyecto.png.png?raw=true) </p>
+<p align="center"> ![](https://github.com/Yammy468/Anteproyecto/blob/main/titulo_anteproyecto.png.png) </p>
 
 ![](https://github.com/Yammy468/Anteproyecto/blob/main/portada_anteproyecto.png.png?raw=true)
 
