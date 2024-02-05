@@ -5,6 +5,8 @@
 
 <p align="center"> ![](https://github.com/Yammy468/Anteproyecto/blob/main/titulo_anteproyecto.png.png) </p>
 
+![titulo_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/b9f82723-6c06-4830-8028-37202d498474)
+
 ![](https://github.com/Yammy468/Anteproyecto/blob/main/portada_anteproyecto.png.png?raw=true)
 
 <br>
