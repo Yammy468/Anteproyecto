@@ -32,7 +32,6 @@
 
 <br>
 
----
 
 ## <a name="diseño" style="color: rgb(0, 68, 255); text-decoration: underline">**Diseño y Planificación del Proyecto. Anteproyecto .**</a>
 
