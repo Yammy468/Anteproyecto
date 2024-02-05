@@ -1,6 +1,5 @@
 # <h2 style="color: rgb(0, 68, 255)">**Anteproyecto**</h2>
 
----
 <br>
 
 ![titulo_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/b9f82723-6c06-4830-8028-37202d498474)
@@ -21,7 +20,6 @@
 
 <br>
 
----
 
 ## <h1 style="color: rgb(0, 68, 255)">**Tabla de contenido .**</h1>
 
