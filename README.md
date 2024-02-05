@@ -3,11 +3,10 @@
 ---
 <br>
 
-<p align="center"> ![](https://github.com/Yammy468/Anteproyecto/blob/main/titulo_anteproyecto.png.png) </p>
+<img align="center"> ![titulo_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/b9f82723-6c06-4830-8028-37202d498474) </img>
 
-![titulo_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/b9f82723-6c06-4830-8028-37202d498474)
+![portada_anteproyecto png](https://github.com/Yammy468/Anteproyecto/assets/113978794/d9e1eff3-1c46-45ce-ad2d-db7671ddd843)
 
-![](https://github.com/Yammy468/Anteproyecto/blob/main/portada_anteproyecto.png.png?raw=true)
 
 <br>
 
